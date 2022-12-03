@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-12-03T15:50:08.074462Z",
+      "created": "2022-12-03T15:58:03.056319Z",
       "format": null,
-      "last_modified": "2022-12-03T15:49:10.225686Z",
+      "last_modified": "2022-12-03T15:56:49.051208Z",
       "mimetype": null,
       "name": "day2.ipynb",
       "path": "advent_of_code/day2.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-12-03T15:50:08.070462Z",
+      "created": "2022-12-03T15:58:03.056319Z",
       "format": null,
-      "last_modified": "2022-12-03T15:50:08.070462Z",
+      "last_modified": "2022-12-03T15:58:03.056319Z",
       "mimetype": null,
       "name": "data",
       "path": "advent_of_code/data",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-12-03T15:50:08.070462Z",
+      "created": "2022-12-03T15:58:03.056319Z",
       "format": null,
-      "last_modified": "2022-12-03T15:49:10.225686Z",
+      "last_modified": "2022-12-03T15:56:49.051208Z",
       "mimetype": null,
       "name": "day1.ipynb",
       "path": "advent_of_code/day1.ipynb",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-12-03T15:50:08.074462Z",
+      "created": "2022-12-03T15:58:03.056319Z",
       "format": null,
-      "last_modified": "2022-12-03T15:49:10.225686Z",
+      "last_modified": "2022-12-03T15:56:49.051208Z",
       "mimetype": null,
       "name": "day3.ipynb",
       "path": "advent_of_code/day3.ipynb",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-12-03T15:50:08.074462Z",
+  "created": "2022-12-03T15:58:03.056319Z",
   "format": "json",
-  "last_modified": "2022-12-03T15:50:08.074462Z",
+  "last_modified": "2022-12-03T15:58:03.056319Z",
   "mimetype": null,
   "name": "advent_of_code",
   "path": "advent_of_code",
