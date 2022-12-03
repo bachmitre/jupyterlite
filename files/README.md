@@ -1,5 +1,5 @@
 # My JupyterLite 
-## [JupyterLabs in Browser](https://jupyterlite.readthedocs.io/en/latest/index.html)
+([JupyterLabs in Browser](https://jupyterlite.readthedocs.io/en/latest/index.html))
 
 ----
 
