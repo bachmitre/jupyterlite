@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-12-03T15:24:01.145993Z",
+      "format": null,
+      "last_modified": "2022-12-03T15:23:01.925690Z",
+      "mimetype": null,
+      "name": "day2.ipynb",
+      "path": "advent_of_code/day2.ipynb",
+      "size": 17714,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-03T15:24:01.145993Z",
+      "format": null,
+      "last_modified": "2022-12-03T15:24:01.145993Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "advent_of_code/data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-03T15:24:01.145993Z",
+      "format": null,
+      "last_modified": "2022-12-03T15:23:01.925690Z",
+      "mimetype": null,
+      "name": "day1.ipynb",
+      "path": "advent_of_code/day1.ipynb",
+      "size": 9301,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-03T15:24:01.149993Z",
+      "format": null,
+      "last_modified": "2022-12-03T15:23:01.925690Z",
+      "mimetype": null,
+      "name": "day3.ipynb",
+      "path": "advent_of_code/day3.ipynb",
+      "size": 22455,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-12-03T15:24:01.149993Z",
+  "format": "json",
+  "last_modified": "2022-12-03T15:24:01.149993Z",
+  "mimetype": null,
+  "name": "advent_of_code",
+  "path": "advent_of_code",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
