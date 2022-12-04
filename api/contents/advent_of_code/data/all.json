@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-12-03T16:49:09.582756Z",
+      "created": "2022-12-04T16:31:20.000497Z",
       "format": null,
-      "last_modified": "2022-12-03T16:48:08.139260Z",
+      "last_modified": "2022-12-04T16:30:21.483646Z",
+      "mimetype": "text/plain",
+      "name": "day4.txt",
+      "path": "advent_of_code/data/day4.txt",
+      "size": 11349,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-12-04T16:31:20.000497Z",
+      "format": null,
+      "last_modified": "2022-12-04T16:30:21.483646Z",
       "mimetype": "text/plain",
       "name": "day2.txt",
       "path": "advent_of_code/data/day2.txt",
@@ -14,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-12-03T16:49:09.582756Z",
+      "created": "2022-12-04T16:31:20.000497Z",
       "format": null,
-      "last_modified": "2022-12-03T16:48:08.139260Z",
+      "last_modified": "2022-12-04T16:30:21.483646Z",
       "mimetype": "text/plain",
       "name": "day3.txt",
       "path": "advent_of_code/data/day3.txt",
@@ -26,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-12-03T16:49:09.578756Z",
+      "created": "2022-12-04T16:31:20.000497Z",
       "format": null,
-      "last_modified": "2022-12-03T16:48:08.139260Z",
+      "last_modified": "2022-12-04T16:30:21.483646Z",
       "mimetype": "text/plain",
       "name": "day1.txt",
       "path": "advent_of_code/data/day1.txt",
@@ -37,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-12-03T16:49:09.582756Z",
+  "created": "2022-12-04T16:31:20.000497Z",
   "format": "json",
-  "last_modified": "2022-12-03T16:49:09.582756Z",
+  "last_modified": "2022-12-04T16:31:20.000497Z",
   "mimetype": null,
   "name": "data",
   "path": "advent_of_code/data",
