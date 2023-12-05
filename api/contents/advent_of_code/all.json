@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2023-12-05T16:50:29.806729Z",
+      "created": "2023-12-05T17:17:39.634207Z",
       "format": null,
-      "last_modified": "2023-12-05T16:49:30.534865Z",
+      "last_modified": "2023-12-05T17:16:44.518377Z",
       "mimetype": null,
       "name": "day4.ipynb",
       "path": "advent_of_code/day4.ipynb",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2023-12-05T16:50:29.802729Z",
+      "created": "2023-12-05T17:17:39.634207Z",
       "format": null,
-      "last_modified": "2023-12-05T16:49:30.534865Z",
+      "last_modified": "2023-12-05T17:16:44.518377Z",
       "mimetype": null,
       "name": "day1.ipynb",
       "path": "advent_of_code/day1.ipynb",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2023-12-05T16:50:29.802729Z",
+      "created": "2023-12-05T17:17:39.634207Z",
       "format": null,
-      "last_modified": "2023-12-05T16:49:30.534865Z",
+      "last_modified": "2023-12-05T17:16:44.518377Z",
       "mimetype": null,
       "name": "day2.ipynb",
       "path": "advent_of_code/day2.ipynb",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2023-12-05T16:50:29.802729Z",
+      "created": "2023-12-05T17:17:39.634207Z",
       "format": null,
-      "last_modified": "2023-12-05T16:49:30.534865Z",
+      "last_modified": "2023-12-05T17:16:44.518377Z",
       "mimetype": null,
       "name": "day3.ipynb",
       "path": "advent_of_code/day3.ipynb",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2023-12-05T16:50:29.802729Z",
+      "created": "2023-12-05T17:17:39.634207Z",
       "format": null,
-      "last_modified": "2023-12-05T16:50:29.802729Z",
+      "last_modified": "2023-12-05T17:17:39.634207Z",
       "mimetype": null,
       "name": "data",
       "path": "advent_of_code/data",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2023-12-05T16:50:29.806729Z",
+  "created": "2023-12-05T17:17:39.634207Z",
   "format": "json",
-  "last_modified": "2023-12-05T16:50:29.806729Z",
+  "last_modified": "2023-12-05T17:17:39.634207Z",
   "mimetype": null,
   "name": "advent_of_code",
   "path": "advent_of_code",
