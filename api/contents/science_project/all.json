@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2023-12-05T16:50:29.806729Z",
+      "format": null,
+      "last_modified": "2023-12-05T16:49:30.546865Z",
+      "mimetype": null,
+      "name": "monte-carlo-investment.ipynb",
+      "path": "science_project/monte-carlo-investment.ipynb",
+      "size": 1600296,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2023-12-05T16:50:29.806729Z",
+  "format": "json",
+  "last_modified": "2023-12-05T16:50:29.806729Z",
+  "mimetype": null,
+  "name": "science_project",
+  "path": "science_project",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
